@@ -1,3 +1,4 @@
+
 \# 🧮 Calculator Project
 
 
@@ -29,6 +30,7 @@ Bu oddiy Python kalkulyator loyihasi.
 
 
 `bash
+
 
 python calc.py
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Markdown 
 
 
@@ -22,6 +23,39 @@ Bu oddiy python calkulyator
 \## Ishlatish
 
 ```bash
+=======
+\# 🧮 Calculator Project
+
+
+
+Bu oddiy Python kalkulyator loyihasi.
+
+
+
+\## 🚀 Funksiyalar:
+
+\- ➕ Yig‘indi
+
+\- ✖️ Ko‘paytma
+
+\- ➖ Ayirma
+
+\- ➗ Bo‘lish
+
+
+
+\## 🛠 Texnologiya:
+
+\- Python
+
+
+
+\## ▶️ Ishlatish:
+
+
+
+`bash
+>>>>>>> 87e91b7 (README.md qo'shildi)
 
 python calc.py
 
